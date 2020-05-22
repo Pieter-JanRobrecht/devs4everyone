@@ -1,4 +1,4 @@
-package be.dev4everyone.devs4everyone.controllers;
+package be.dev4everyone.application.controllers;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

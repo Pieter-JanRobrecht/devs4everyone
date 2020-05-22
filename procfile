@@ -1,0 +1,1 @@
+web: java -jar devs4everyone/target/application-0.0.1.jar

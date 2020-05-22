@@ -9,8 +9,8 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>be.dev4everyone</groupId>
-	<artifactId>devs4everyone</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>application</artifactId>
+	<version>0.0.1</version>
 	<name>devs4everyone</name>
 	<description>Devs 4 everyone project</description>
 
