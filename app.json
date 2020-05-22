@@ -1,0 +1,17 @@
+{
+  "name": "Devs 4 Everyone app",
+  "description": "This app ",
+  "keywords": [
+    "productivity",
+    "java"
+  ],
+  "website": "https://devs4everyone.herokuapp.com/",
+  "repository": "https://github.com/Pieter-JanRobrecht/devs4everyone",
+  "success_url": "/",
+  "buildpacks": [
+    {
+      "url": "heroku/java"
+    }
+  ]
+}
+
